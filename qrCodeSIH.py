@@ -1,5 +1,5 @@
 import zbar #sudo apt-get install libzbar-dev # sudo apt-get install python3-dev  #pip install zbar
-import cv2
+import cv2 #pip install opencv-python
 from PIL import Image  #pip install Pillow
 
 def main():
